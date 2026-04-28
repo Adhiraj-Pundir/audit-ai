@@ -1,0 +1,6 @@
+{
+  "dalit": ["Khatik", "Paswan", "Chamar", "Valmiki", "Dhobi", "Gond", "Meena", "Lodhi", "Ram", "Mondal"],
+  "muslim": ["Rahman", "Ali", "Sheikh", "Khan", "Siddiqui", "Malik", "Hasan", "Ansari", "Mirza", "Qureshi", "Abbas", "Hussain", "Pathan"],
+  "upper_caste": ["Sharma", "Trivedi", "Verma", "Gupta", "Mehta", "Joshi", "Patel", "Bhatt", "Mishra", "Rao"],
+  "parsi": ["Mistry"]
+}
