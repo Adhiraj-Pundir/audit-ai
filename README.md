@@ -10,10 +10,6 @@
 
 ---
 ## 🌐  [Live Demo](https://audit-ai-gsc-a3594.web.app)
-
-- **🌐 Frontend Dashboard**: [https://audit-ai-gsc-a3594.web.app](https://audit-ai-gsc-a3594.web.app)
-- **🧠 AI Backend API**: [https://pundiradhiraj-bias-audit-backend.hf.space](https://pundiradhiraj-bias-audit-backend.hf.space)
-
 ---
 
 ## 📖 Overview
