@@ -94,4 +94,4 @@ Built for the **Google Solution Challenge**. Contributions are welcome! Please f
 ---
 
 ## 📜 License
-MIT License. Created by **Adhiraj Pundir**.
+MIT License. 
