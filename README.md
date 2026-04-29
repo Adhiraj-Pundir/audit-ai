@@ -9,8 +9,7 @@
 > **Empowering AI Fairness.** A comprehensive tool designed for the **Google Solution Challenge** to detect, visualize, and mitigate bias in Large Language Models.
 
 ---
-
-## 🚀 Live Demo
+## 🌐  [Live Demo](https://audit-ai-gsc-a3594.web.app)
 
 - **🌐 Frontend Dashboard**: [https://audit-ai-gsc-a3594.web.app](https://audit-ai-gsc-a3594.web.app)
 - **🧠 AI Backend API**: [https://pundiradhiraj-bias-audit-backend.hf.space](https://pundiradhiraj-bias-audit-backend.hf.space)
